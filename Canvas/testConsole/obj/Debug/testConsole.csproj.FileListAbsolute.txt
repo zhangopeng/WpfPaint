@@ -1,0 +1,7 @@
+C:\Users\ZhanPeng\source\repos\Canvas\testConsole\bin\Debug\testConsole.exe.config
+C:\Users\ZhanPeng\source\repos\Canvas\testConsole\bin\Debug\testConsole.exe
+C:\Users\ZhanPeng\source\repos\Canvas\testConsole\bin\Debug\testConsole.pdb
+C:\Users\ZhanPeng\source\repos\Canvas\testConsole\obj\Debug\testConsole.csprojAssemblyReference.cache
+C:\Users\ZhanPeng\source\repos\Canvas\testConsole\obj\Debug\testConsole.csproj.CoreCompileInputs.cache
+C:\Users\ZhanPeng\source\repos\Canvas\testConsole\obj\Debug\testConsole.exe
+C:\Users\ZhanPeng\source\repos\Canvas\testConsole\obj\Debug\testConsole.pdb

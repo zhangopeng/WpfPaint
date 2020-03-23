@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canvas", "Canvas\Canvas.csproj", "{44A2E2BC-7D24-4094-A462-2029073D6A83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testConsole", "testConsole\testConsole.csproj", "{FBC6B204-A98B-4809-BC39-584D66CB020E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A2E2BC-7D24-4094-A462-2029073D6A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A2E2BC-7D24-4094-A462-2029073D6A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A2E2BC-7D24-4094-A462-2029073D6A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A2E2BC-7D24-4094-A462-2029073D6A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC6B204-A98B-4809-BC39-584D66CB020E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC6B204-A98B-4809-BC39-584D66CB020E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC6B204-A98B-4809-BC39-584D66CB020E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC6B204-A98B-4809-BC39-584D66CB020E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFCD055A-0B8C-4D3E-A3DF-5867E374CEBC}
+	EndGlobalSection
+EndGlobal
