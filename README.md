@@ -1,2 +1,2 @@
 # WpfPaint
-wpf paint fast 
+wpf paint fast ，rewrite canvas code
